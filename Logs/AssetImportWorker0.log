@@ -127,3 +127,58 @@ System memory in use after: 84.3 MB.
 Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2242.
 Total: 2.345700 ms (FindLiveObjects: 0.184600 ms CreateObjectMapping: 0.066100 ms MarkObjects: 1.927200 ms  DeleteObjects: 0.166800 ms)
 
+========================================================================
+Received Import Request.
+  Time since last request: 360.304945 seconds.
+  path: Assets/Script/GameBreakingScipt.cs
+  artifactKey: Guid(0b12614e6ecc5684d87cae175395b863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/GameBreakingScipt.cs using Guid(0b12614e6ecc5684d87cae175395b863) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '250599b23991d83b6895b08e090f4903') in 0.013203 seconds
+  Import took 0.039827 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000805 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.926 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1794 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.3 MB.
+System memory in use after: 84.3 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2246.
+Total: 2.482900 ms (FindLiveObjects: 0.180900 ms CreateObjectMapping: 0.079200 ms MarkObjects: 2.053700 ms  DeleteObjects: 0.167900 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.000806 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.33 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.896 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.34 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1793 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 84.3 MB.
+System memory in use after: 84.3 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2248.
+Total: 2.391000 ms (FindLiveObjects: 0.448200 ms CreateObjectMapping: 0.117100 ms MarkObjects: 1.658800 ms  DeleteObjects: 0.165300 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
